@@ -175,8 +175,7 @@ function createMasonryCard(item) {
       <div class="card-back">
         <div class="info">
           <h3>${item.title}</h3>
-          ${(item.type === "ppt" || item.type === "printable")
-            ? `<span class="click-hint">Click to preview</span>` : ""}
+          ${item.type === "ppt" || item.type === "printable"}
           <p>${item.desc}</p>
           ${item.link
             ? `<a href="${item.link}" target="_blank" class="btn">
