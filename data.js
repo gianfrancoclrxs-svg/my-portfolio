@@ -503,7 +503,7 @@ sections: [
     },
 
     {
-      section: "PowerPoint Works (Click a cover to preview)",
+      section: "PowerPoint Works",
       items: [
         {
           type: "ppt",
@@ -538,7 +538,7 @@ sections: [
     },
 
     {
-      section: "Printables (Click a cover to preview)",
+      section: "Printables",
       items: [
         {
           type: "printable",
