@@ -7,55 +7,55 @@ const portfolioData = [
       section: "BS Information Technology - PSU Lingayen",
       items: [
         {
-          img: "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/598983182_746120388272265_3889987263282494400_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFNF9IntnZe6TIbu48qEEtFFLO0vE3Nvo8Us7S8Tc2-j5yKZssVUnMzhi0MXcfBxxo4Pe3JtNpjv7RP6ZyHBpqZ&_nc_ohc=niWK5Q6byUIQ7kNvwEELlaJ&_nc_oc=Adr600Qy6zTM3s2HN-q9MU6L1ZpMQDJYldKMza7h2-kxT9xK3l2TvyT6eBPr7Lv7aIk&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=XF5v6ix1nBCN0-qDZtLLOQ&_nc_ss=7b2a8&oh=00_Af6K0dGhrDYZYL-Ojm5LR0Ktxduddl5Ow490_AyihcqUGg&oe=69FF666F",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/598983182_746120388272265_3889987263282494400_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFNF9IntnZe6TIbu48qEEtFFLO0vE3Nvo8Us7S8Tc2-j5yKZssVUnMzhi0MXcfBxxo4Pe3JtNpjv7RP6ZyHBpqZ&_nc_ohc=YF-M9rxRLy4Q7kNvwHhy-9B&_nc_oc=AdrczQr_eyzNwhMxLUQR-l9Ij8xANZHMsr4hQQTJoNCQxXvHZo0XukqWl8C6hoxSSBk&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=rPhWpQrNC30zsl2OkA16aQ&_nc_ss=7b2a8&oh=00_Af58HNe2K6kWN-9G5MeTVJmXLMkO3VYKsNPrdigTC3ijSA&oe=6A0B7C2F",
           title: "Agew na Dayew | Pubmat",
           desc: "Event pubmat design.",
           link: "https://www.facebook.com/share/p/1CNdgEirT2/"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/600270670_746121024938868_3147431521818804142_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeG7OYddMRgKOU6O3aNxZMXRbVQE08q31b9tVATTyrfVv_1uBaLeP0Q0v_I3JAmNXDlHy6P8BQxaNCpDNYLfRsh8&_nc_ohc=C4Pk0fX7wKMQ7kNvwHYJPNN&_nc_oc=Adpi2hvqUNf0h6pHXl1bJziyU29QQLkI7Ic9p6zEDC0Ohl0XSqx4WH2-93feeIHDqWU&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=BrGdmHb2VOlzWyDNT26WoQ&_nc_ss=7b2a8&oh=00_Af7uuTvN0DxpDCQt6xcPNYm-YaEaI4Ed5VdjhaWGNsdkHg&oe=69FF7F9F",     
+          img: "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/600270670_746121024938868_3147431521818804142_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG7OYddMRgKOU6O3aNxZMXRbVQE08q31b9tVATTyrfVv_1uBaLeP0Q0v_I3JAmNXDlHy6P8BQxaNCpDNYLfRsh8&_nc_ohc=Zl-0oPMG89MQ7kNvwEk4huD&_nc_oc=AdoKyOLAPbj5pd1I-BhsKzXoZXmo8i-qRdQ9crv2HSXmKPu8zxd47uOSNXwZDEF6to4&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=J8r54KKgDm1pD1qfrAbjzQ&_nc_ss=7b2a8&oh=00_Af43sEOSHlut5p03Ub_SoGkf_xPvJlBvbpyZ2VYd3KdSNA&oe=6A0B955F",     
           title: "Official Deans Lister Poster",
           desc: "Academic recognition pubmat.",
           link: "https://www.facebook.com/share/p/1CNdgEirT2/"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/626024722_783125424571761_1175790983263635931_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeHlCoxyPMvHh9vTCao5cxgYxSyJ3PBKTwDFLInc8EpPAKKAsWxdd_hiAeHYDWf921rFkb5CxuKn6G8RjFig1nxC&_nc_ohc=9Eh3fo3T768Q7kNvwGP18K2&_nc_oc=AdrmL4_Bn2AM_HxT6zUJDs-V8KtzoHW21qZot0daf-F-2McMlqX1dVvwe8OCW5xICGw&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=BmGYaNBpA9_l3oB6W7g6cA&_nc_ss=7b2a8&oh=00_Af6hB66VfBbN5F8if0D1tQaxBEZcTOtfvUvQGU-KoF_DwA&oe=69FF5B64",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/626024722_783125424571761_1175790983263635931_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHlCoxyPMvHh9vTCao5cxgYxSyJ3PBKTwDFLInc8EpPAKKAsWxdd_hiAeHYDWf921rFkb5CxuKn6G8RjFig1nxC&_nc_ohc=QG-gZZW8VVIQ7kNvwEdYIfO&_nc_oc=AdrdCdxPAUCf5NYCZTpE4tibI6_usMzBgfqC8f1Y4DvzLhxnJ4l1HhTJT9RxOHHcoYg&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=UvKDdU4E6CVJO63e_XIu4g&_nc_ss=7b2a8&oh=00_Af6X6uId174p4R5qkWm9cxMs64d5bqqYIwXcblhnAwpjSA&oe=6A0BA964",
           title: "BSIT 2025 Recap",
           desc: "Year-end recap design.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid057Bg1H7yHAwHQdJiD28SJ8K7iqYxjyiaayPjBEoouPcfXQQk54HQiZmYSVmPa1D4l"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/474477969_511489695068670_4502293691395973126_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGBRF5n5dHcarrqqBzz8XnVRVcnLkafqyFFVycuRp-rITiri6wlg0QnCRn65SqyI1Vzb89q31tCZKy2Hif0XBuV&_nc_ohc=JOqyo73LRIAQ7kNvwFzktTe&_nc_oc=AdrSX8sU_gBsFWw-jHc_U2iVQlkNLxGfqbpuohMr9A40f-l2NWVV87a51cVMTBqlzNA&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=uhCmpFNbI760r0H2VczA4g&_nc_ss=7b2a8&oh=00_Af5pbLVuLlqKM-4EawbxJtGfEv-dCNqxMW6wX-6rtK8fZw&oe=69FF781E",
+          img: "https://scontent.fmnl17-7.fna.fbcdn.net/v/t39.30808-6/474477969_511489695068670_4502293691395973126_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGBRF5n5dHcarrqqBzz8XnVRVcnLkafqyFFVycuRp-rITiri6wlg0QnCRn65SqyI1Vzb89q31tCZKy2Hif0XBuV&_nc_ohc=PyJC03r0RsUQ7kNvwHmK4Xm&_nc_oc=Adq6BS6y7FVndYmsg-ykezYN0pxQmXPIwt5cPe5EANM3LGtGB3vrFpg9Sq10ioShFnI&_nc_zt=23&_nc_ht=scontent.fmnl17-7.fna&_nc_gid=E3Rl1qvWDa0swpPg9mpRJQ&_nc_ss=7b2a8&oh=00_Af7BovgZi92CzoKZQc7HpmfX-Q_2u5gTjlkQrPo-1VXRhA&oe=6A0B8DDE",
           title: "Fungus Photography Champion Pubmat",
           desc: "Competition champion announcement design.",
           link: "https://www.facebook.com/share/p/16wXUwt8cf/"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/593965948_737452559139048_1344387470327188642_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGZh7Ro9ceEklh91g2L9mDaM-pG411gOsIz6kbjXWA6wgVLosXDPXt2hOyJvo2-tD5Jb6PX91MIfIqWkVGx4xDm&_nc_ohc=zU0a_HR6KFIQ7kNvwHeudyh&_nc_oc=AdqJ7YyB81eTdwL9dSoWo_59hiIRFpftave0CTQUaoWc3eEOURmImew-JpUwyRa9xlU&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=qMnEXsZJ5FNLLpxoaInTtA&_nc_ss=7b2a8&oh=00_Af5NYtq8_T36_eRa8jvUKPngPvYEsK4RCutC97jT2FdjcQ&oe=69FF6FC2",
+          img: "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/593965948_737452559139048_1344387470327188642_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGZh7Ro9ceEklh91g2L9mDaM-pG411gOsIz6kbjXWA6wgVLosXDPXt2hOyJvo2-tD5Jb6PX91MIfIqWkVGx4xDm&_nc_ohc=8KSPTdxXTLEQ7kNvwHzsyXy&_nc_oc=AdpG0HIZKKgb23FTx6HV9pQf53B1xfGWtcsKeh5ZQybR4nsMhW-CQP972cpcOhTYX8w&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=dBmas4hdsSyLI7o57viL1A&_nc_ss=7b2a8&oh=00_Af7Ekquc8C8C5X9swjIX341bUvMG3vNMcuVED-yIuJjSgA&oe=6A0B8582",
           title: "Official Winner of IT DAYS 2025 | Pubmat",
           desc: "Event winner announcement pubmat.",
           link: "https://www.facebook.com/share/p/1GWAnKgbF6/"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/530406760_649186874632284_4643549898944385539_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeG73u90nzt7eiPaVXMViWzd9EeFLUvpFwb0R4UtS-kXBlhVFzY7akAPivJGVpVbKRvYKLE1HflRJH2yYyEOGCvM&_nc_ohc=azyoHLTG9rgQ7kNvwGPLoOQ&_nc_oc=AdoAtw7R1sjNSmQmZivbxdlorSGF1BevwBxVPRwrnq3G7sZq47dyVyKWNtzuX9mKDVg&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=P7TfVZXphixMuuGlsnFIqQ&_nc_ss=7b2a8&oh=00_Af784vIyNGFcYAZwzk8RzZTSg1dC2Nk35isFp5CF6d-IOg&oe=69FF5DB8",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/530406760_649186874632284_4643549898944385539_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG73u90nzt7eiPaVXMViWzd9EeFLUvpFwb0R4UtS-kXBlhVFzY7akAPivJGVpVbKRvYKLE1HflRJH2yYyEOGCvM&_nc_ohc=xqXdu_qEEQAQ7kNvwEB2xrf&_nc_oc=AdophOr9aBdBjfM16tGuY8y6b8Q55QAuRLYAtvll_yyIFgIgJwRaHrGn72FoECZ0NK4&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=EH74GoeYVtGduDcsR6IXxw&_nc_ss=7b2a8&oh=00_Af45h4J8GYLE-1McFgHl6AWreRoV-9r0ZHIilxPIbqzUcQ&oe=6A0BABB8",
           title: "Official DP Blast 1st Semester A.Y. 2025-2026",
           desc: "Digital profile blast pubmat.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0vGjajrZ16UnMxFYERPAdytvFeqtJoG7HB5uLZrDzXrWSCLSsw4RhU2RhhTPVr45Jl"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/619336689_769207159296921_8232020434316859096_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFrrmoaaQ3KAQB6VbSr1guy9vp2EPottgD2-nYQ-i22AFc7XZoGf_7_D84xefDLTv5x8FFegEVFgLA5pjdA85lZ&_nc_ohc=9OaWGnwtkmgQ7kNvwEv4B36&_nc_oc=AdrCzypKzPjA679_zQoEWj7u8Dv7-7ZFrw-KH5olWd4t-gVx0HQeHh5X_mxnbRdCw50&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=MWiOOph2m_DBeJlBobp7KA&_nc_ss=7b2a8&oh=00_Af4eZW3uXcr0wBmINnSEO_70Ad2kfx0HCPGIrFpzE0Ex4Q&oe=69FF7FA9",
+          img: "https://scontent.fmnl17-4.fna.fbcdn.net/v/t39.30808-6/619336689_769207159296921_8232020434316859096_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFrrmoaaQ3KAQB6VbSr1guy9vp2EPottgD2-nYQ-i22AFc7XZoGf_7_D84xefDLTv5x8FFegEVFgLA5pjdA85lZ&_nc_ohc=9jeMVJXrjtwQ7kNvwHXLxf9&_nc_oc=AdohSUOfn8PgdanT3DFCiOC0Fl-6SxONruhy5keEJ3ufQHfDx_IAg71rlgje5Vgz5qc&_nc_zt=23&_nc_ht=scontent.fmnl17-4.fna&_nc_gid=-O35vp9PFvKntfhFHUoSfw&_nc_ss=7b2a8&oh=00_Af4prvyr0ZwtzMIuYlw-bc2Tz_ldu7Iici-WUTK8cDZYSQ&oe=6A0B9569",
           title: "Official DP Blast 2nd Semester A.Y. 2025-2026",
           desc: "Digital profile blast pubmat.",
           link: "https://www.facebook.com/share/p/16FByA6Ank/"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/649382522_807731915444445_5687409837146005977_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFp1j5_r6XFbXiu8S0WlmnClg6zUkR7xL-WDrNSRHvEvyd-6pUi6EphAJps6aVI_xqhATbZo4hy2D1tzA9_IaBz&_nc_ohc=QHFBGzVIl3gQ7kNvwHZGtKa&_nc_oc=AdriM-_neK_60R8b6KzE08oDRWtXjUZerD7BmMouNc6xfwhPBvrdtdZ039vv3I271ZQ&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=BpCMI_65RFg3ykjxiQFfEQ&_nc_ss=7b2a8&oh=00_Af7WPi3-8gij-mvnQ_e0PmeqfEflSxvc_txgUs0uVx10mA&oe=6A008C11",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/649382522_807731915444445_5687409837146005977_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFp1j5_r6XFbXiu8S0WlmnClg6zUkR7xL-WDrNSRHvEvyd-6pUi6EphAJps6aVI_xqhATbZo4hy2D1tzA9_IaBz&_nc_ohc=f4forJ8m_S8Q7kNvwEOEC22&_nc_oc=AdpZqd8RLkzWcOfRTc1JUQotUX8oBibTQRnKmOrsHZvklNlrPUwp9hv-yhYTDbS25fI&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=YtJahrc45OuqF3_wbqeP7w&_nc_ss=7b2a8&oh=00_Af70zarCvx1JxRJ-BX_JewOR6QKhlPdBD8kIC1Our5WiAg&oe=6A0B8891",
           title: "National Women's Month",
           desc: "National Women's Month pubmat.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0CJhHuK7UH1Ji1v8u3ST6JXv14G3t5hvKeThKsFyc68NermHzdCrrde79FAwiuufil?__cft__[0]=AZZVnlaMP4ZcK2sP-Qq5xYxJpRVkx6DBoM2Ub2-73fu-1HTkqNKFgny1bWVUkbuW0ZhT5PDuxfLcGO1blC5CqkMDO3lJjCvVC6AvTztUbAU87orqsFop4xv_LRXg7IY3Ik12v80qndm0kSbAmHRHx0Q18162dIOInKF64m7RyjnlQtyGLwfFjbBjx6MISYEaGMk&__tn__=%2CO*F"
         },
         {
-          img: "https://scontent.fmnl10-1.fna.fbcdn.net/v/t39.30808-6/640425759_799575189593451_6667200079233925267_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeG8UFc8xTbDH8zwnPFCVzKJvQI6yqvwt4i9AjrKq_C3iNUv4KDSm0HDon5W0CWwN4xMUzJKqs-nKc1PgC0QSoXc&_nc_ohc=Vg5JgHBuMWQQ7kNvwFkEr4Q&_nc_oc=AdrDcU8LtKDvqOF4mfZWW0obwhqRcfOtTkkc1fKE88NZFx39euEPQFZXCumaPs6YQ90&_nc_zt=23&_nc_ht=scontent.fmnl10-1.fna&_nc_gid=qGGy_OoP-8eRrFQ8fg2pfA&_nc_ss=7b2a8&oh=00_Af5RzRdNZaqLfbAnyGczISnSK-hT62-ci_b4fxmZHf9xNQ&oe=6A009175",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/640425759_799575189593451_6667200079233925267_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG8UFc8xTbDH8zwnPFCVzKJvQI6yqvwt4i9AjrKq_C3iNUv4KDSm0HDon5W0CWwN4xMUzJKqs-nKc1PgC0QSoXc&_nc_ohc=9Rknbvz6XNUQ7kNvwHfD7CD&_nc_oc=Adp5rgFrBMqk4tWMbQhFyD9ZY3zVlM6DGU1Bhf5pcNexmL1oj94np3BoDAfcbwxxJMk&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=ujgnJ3fdGGlYhdo_4fjC4w&_nc_ss=7b2a8&oh=00_Af7ZakRwKi9SlPAKKmM2FVigsveZcUOG4tb8qUR16_R4rA&oe=6A0B8DF5",
           title: "Congratulatory Pubmat",
           desc: "Congratulatory pubmat.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0Rt6oMnPdfTVwccCTk9tVCGS2g6EV487Bo9SPTrtaGmHwdBKwxBtPhTcQVnm9fV92l?__cft__[0]=AZbwQ47-rhHL7WGUrBFVoNZZ8O8RIzyD6N1jI1sfipfk5DMHwnrKCT7ctJdUPnsREAeLdS4i3RdAUrVvOo6bsqW6trH49fgJX7LEiro_aHLBi2iBKrNLKeU8c9at-F-eN0Rc11Ds-tZGxS4NRgDvKHtN1E4csOmQNArCD-yBns80qBbCtBCXP53sqPhiVrPl9Us&__tn__=%2CO*F"
@@ -67,19 +67,19 @@ const portfolioData = [
       section: "Pangasinan State University",
       items: [
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/608772000_884784887274508_3861115428621893481_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeFoENj529unB2TOvGISkkAe4rGKWd1YSkfisYpZ3VhKRwNWptZ7YKeRZz9aNbEK_zRCB7Y_R3XHwarb38umFAXd&_nc_ohc=D7Lag8thH_AQ7kNvwH_PwMb&_nc_oc=AdqkqP2UiJHgkYlQTLbqFxRxAlqQyUIlyUCqqCxS6zswo1jVaRT4IPkX2AcAweJ0EDg&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=Mo6d7SrxNEA97D9Gu65KPw&_nc_ss=7b2a8&oh=00_Af6vC1gITimnLudhZTwC9Ceipg84B_Dts1WRkWoL-25Ofw&oe=69FF59A1",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/608772000_884784887274508_3861115428621893481_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFoENj529unB2TOvGISkkAe4rGKWd1YSkfisYpZ3VhKRwNWptZ7YKeRZz9aNbEK_zRCB7Y_R3XHwarb38umFAXd&_nc_ohc=an9niIPzNiwQ7kNvwFQJ7YA&_nc_oc=AdqepvItBhNeKZ6zCZcbO_O3XIkUi9tIg7RlBf8dNRJlVZiQLd4LJNBQC_D-oxEmfC0&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=oYrdcGOe52z58HmZTr79Tg&_nc_ss=7b2a8&oh=00_Af77GW2SNORgpxbQAYjYgd46MKasWeLY_Tz8UDvIqcl-AA&oe=6A0BA7A1",
           title: "Lingayen Fiesta | PSU Lingayen Official Pubmat",
           desc: "University cultural event design.",
           link: "https://www.facebook.com/share/p/1CYmpTcuwi/"
         },
         {
-          img: "https://scontent-mnl3-1.xx.fbcdn.net/v/t39.30808-6/474253555_511683225049317_1256951062397826329_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeEhm7MnVd8-sUexQU8Lr6elSDU0Eaeb-HtINTQRp5v4e0o3Ghs4jfZFToVBuEDlGpH1qD5I2z7MgiHs2mdrommF&_nc_ohc=d49i4SgxmBQQ7kNvwE5EIJX&_nc_oc=AdrMmRfdGeScFGdSvvXx-DNJt4Bcp4Aubq8pW7PnOQC13Q_1BWwXfNo1j4cFaYpjTEY&_nc_zt=23&_nc_ht=scontent-mnl3-1.xx&_nc_gid=yVA688-klDWk0YjLRFVctQ&_nc_ss=7b2a8&oh=00_Af4Tq7ajNF0XPCf_YYtxmbRFaH3RBgDKhef6CKf62F3uew&oe=69FF746E",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/474253555_511683225049317_1256951062397826329_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEhm7MnVd8-sUexQU8Lr6elSDU0Eaeb-HtINTQRp5v4e0o3Ghs4jfZFToVBuEDlGpH1qD5I2z7MgiHs2mdrommF&_nc_ohc=UP6UVxASRvAQ7kNvwFLJ-P6&_nc_oc=Adpr-_inG_o2GwAG-KXsIlM6UScklyMDxRBcUWvVYTYJsuw-vDh-Ckpy-gbBol9-QMs&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=sDVNTzTuJXOwfowskaJKng&_nc_ss=7b2a8&oh=00_Af7dDgqk2h-ogNZzWUCuETIQRUKuSfGNuR7XY-_qlJ5PMQ&oe=6A0B8A2E",
           title: "University Meet Day 1 | Pubmat",
           desc: "Sports event pubmat Day 1.",
           link: "https://www.facebook.com/share/p/1HbAuXxgny/"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/473766859_511683231715983_6372371361565134390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFjZ__We-3ZbHvwygyzey1iv_TFcBuFrKq_9MVwG4WsqjnapUyr9lRtAJ6D3Im9CNeksPqT1G6Y7pZpD7jRj1ex&_nc_ohc=Pq1TlvT-nL0Q7kNvwF0SOu7&_nc_oc=AdrSEEAvMcztAxyM5fj9BrbPJdau1Follkrq9-vM5cVe-p5dHwIQfaxRTr5PIDm-Y2E&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=OEqvgCDQYNpga8err-yPNg&_nc_ss=7b2a8&oh=00_Af4iSJsJcuTCF8wmKfEMvLSKyk5-6xoyEyMAWcdu7iaTHQ&oe=69FF6574",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/473766859_511683231715983_6372371361565134390_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFjZ__We-3ZbHvwygyzey1iv_TFcBuFrKq_9MVwG4WsqjnapUyr9lRtAJ6D3Im9CNeksPqT1G6Y7pZpD7jRj1ex&_nc_ohc=VoMMjENfy9wQ7kNvwFbBpxw&_nc_oc=AdpSwn72xLuaCd76qZV1yMjvLAAPGjVFq6Eo0mgmmO4Fb2CcdQcghlkCtD2oUwFF8v0&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=WRCUFKfCIYOgNcU-5TM3og&_nc_ss=7b2a8&oh=00_Af5evT75-0zkUELsGsCjmmD5xCtudXbukPk5EuK-JBZsgw&oe=6A0B7B34",
           title: "University Meet Day 2 | Pubmat",
           desc: "Sports event pubmat Day 2.",
           link: "https://www.facebook.com/share/p/1dbn49dwzT/"
@@ -91,67 +91,67 @@ const portfolioData = [
       section: "Society of Future I.T. Innovators",
       items: [
         {
-          img: "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/585915470_727510196799951_8762427252203597307_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeF5NrzKKWZ0KLJiQ-6b3UsQjScoyzpow-iNJyjLOmjD6Oc4HGn6uD3DQnfS3fvP19mQkysTvgp8JCFXpinxGIgz&_nc_ohc=XQLfl8A-j7sQ7kNvwHRgDXx&_nc_oc=Adqy7lTlnB4InFElGs55-7ugSq97Fu9n0AWUcZz4ddUHa9KyTaBp9XaBbR101a34KGA&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=00Hn6a7Ak613hm1qtM5lgw&_nc_ss=7b2a8&oh=00_Af5CXsGg_ajVX1GyZ1E02N90Ck9T_CuKT8eaXetPCEveTQ&oe=69FF6644",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/585915470_727510196799951_8762427252203597307_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF5NrzKKWZ0KLJiQ-6b3UsQjScoyzpow-iNJyjLOmjD6Oc4HGn6uD3DQnfS3fvP19mQkysTvgp8JCFXpinxGIgz&_nc_ohc=H3QNs16BlbgQ7kNvwG5mIfl&_nc_oc=AdrqK3f6t6LswZU1jDwvI2qsQjh7zwUPsIaZ8MFwBfucfgzURUkBYUaDlyv4iLXiP-s&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=3z8g9dTfvDNLQbweTL1sjg&_nc_ss=7b2a8&oh=00_Af7A2CeMwebTmTbTxf_CbXMlkuQsF-Mtd6SnrIMVwjXbrw&oe=6A0B7C04",
           title: "Debugging Challenge | Pubmat",
           desc: "Programming challenge event design.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/584885031_727510323466605_306213614016485179_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeEt8iBcUO_LmspiZzuHoGntwO7Ob-Oe0lvA7s5v457SW28vJAFyGxYW6nXIndOaQ7ngE1H_g0Og1mrxqSaclux8&_nc_ohc=S1-M4mDvtTkQ7kNvwEK2kXF&_nc_oc=Adoaxjg5BB8bcSOgoL9Op4jStc7t497QU4HUgdYM1BCfZCGD188zz6FA4Nfa742Mw7M&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=QEVDp17DsYE6OiEgluyB3Q&_nc_ss=7b2a8&oh=00_Af79x01giDrTxJRszOGTttiebhXsx2JoFnFruZi6kRxd6w&oe=69FF5C4B",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/584885031_727510323466605_306213614016485179_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEt8iBcUO_LmspiZzuHoGntwO7Ob-Oe0lvA7s5v457SW28vJAFyGxYW6nXIndOaQ7ngE1H_g0Og1mrxqSaclux8&_nc_ohc=5U98s0ig5r8Q7kNvwHfZSbP&_nc_oc=AdrbtMtkiJwLHVCBjpmLTnPyyqtmOCNFzfp0mHsE80JI1JPPMuNGy00lB-iIKNJTt4c&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=6fbOaAEug_X2MHm5aB7_dA&_nc_ss=7b2a8&oh=00_Af7rEPFR7Hjdo_gF4DAx9h0VTKeINZLK3b3VqFR3eXAFrw&oe=6A0BAA4B",
           title: "Memory Game | Pubmat",
           desc: "Interactive game event pubmat.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/584333764_727510263466611_1563928678595573703_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeH9yyYcqfwUTz5HybdD4VVMDEhLlsSrh8kMSEuWxKuHycdbcYB0GPnHwTMKuPKH9E-PBxwElngFLUVPQ7IiFQ1X&_nc_ohc=vlaT5wTwL9IQ7kNvwGBQYwy&_nc_oc=Adpf8yEDNvGPTBnrAV1JgSDm7GOHqmSYsv6Qznl7asgt5J4wD9oTRQ8BheGNP13wfaY&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=-ArCXB3_hnhoZC52jK5rUw&_nc_ss=7b2a8&oh=00_Af6Qh_yAjzCa_SmcohDB0YkCus_PYLGKYS3CSEutXuAOfA&oe=69FF7ED8",
+          img: "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/584333764_727510263466611_1563928678595573703_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH9yyYcqfwUTz5HybdD4VVMDEhLlsSrh8kMSEuWxKuHycdbcYB0GPnHwTMKuPKH9E-PBxwElngFLUVPQ7IiFQ1X&_nc_ohc=4AEo-mF0dGoQ7kNvwFTFxFv&_nc_oc=AdoWOS-m1aW0hZTQJ3jYhq-Yx5hyr7FV16m_St4f25ORDgcX4hv6PfU02tS0Tmyx24I&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=JT2XnvUoveth3B5JePonxA&_nc_ss=7b2a8&oh=00_Af7N6XkSS6rCfyoaHBzQexpIDk4C5mCriebpxkJUYCgHyA&oe=6A0B9498",
           title: "Rebus Puzzle | Pubmat",
           desc: "Puzzle challenge design.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/585215025_727510176799953_3170251678418264205_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHBF2oS_PEnr8Me3kcdj11rcJku9_wMSY9wmS73_AxJj9bH9qNeIpT9jdye2gc--TxcJarmD01kaC7Lt6T9wnMA&_nc_ohc=aKdH9_rkVXAQ7kNvwEo5iEc&_nc_oc=AdpKCWo_WTI_wRBSHXWKXDMmuNprL2GQ_POF9y6lvy5V_UAyRtuu3H0qFxKm47zul2k&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=5iG9OHcgxuRJ20moJDmv0Q&_nc_ss=7b2a8&oh=00_Af5XANLLfR3pI_slKopEaR13JEIAoKzu1Q6cc7tU2f0HiA&oe=69FF8883",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/585215025_727510176799953_3170251678418264205_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHBF2oS_PEnr8Me3kcdj11rcJku9_wMSY9wmS73_AxJj9bH9qNeIpT9jdye2gc--TxcJarmD01kaC7Lt6T9wnMA&_nc_ohc=QxmFkhREHvUQ7kNvwHdpqKX&_nc_oc=AdoubfXzlMF0fKj35vbv2ewVgz_WMok7TFUY5bLfpjfh27ftFLf6_dvljOA5LVIH2sM&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=iEDp7-4M_cuCnnfPVP0kQw&_nc_ss=7b2a8&oh=00_Af5QIWRkkRNg4O1NTeFPszCux0cjddGYxtySECQZgRRWJA&oe=6A0B9E43",
           title: "Stack the Cup | Pubmat",
           desc: "Game event pubmat design.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/582760396_727510316799939_5634367690442581263_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeEWBhoinCELmy4AUjHQx-gp-o1mtLRAgDz6jWa0tECAPOcVxjN6xzm8zZXeTP8Ba29ySUanvSuPytnBax9vYVta&_nc_ohc=Y35REpMs91IQ7kNvwG-BT8u&_nc_oc=Adreq-rneKB3Y502-epyBixeMVZyM02zBdBk0bz7IAq95XBcnuesMWq5rwDmZeUGWLs&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=tDIPTqHP-KSy1ZGiYTEmqw&_nc_ss=7b2a8&oh=00_Af7uFVDwPm7DKqUSMfF7vJsmRV9-fXp3R7_mYB59YpWXAg&oe=69FF5D9B",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/582760396_727510316799939_5634367690442581263_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEWBhoinCELmy4AUjHQx-gp-o1mtLRAgDz6jWa0tECAPOcVxjN6xzm8zZXeTP8Ba29ySUanvSuPytnBax9vYVta&_nc_ohc=9874Hz-IRRcQ7kNvwH9ISeF&_nc_oc=AdqBj4Nq6GG770lA7tXBL-8nwWLsO3KsuS02Afgo2KEB99OA_nWua8-raryRCXSyN8M&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=k1la3duCB6tBKHV6edCLiw&_nc_ss=7b2a8&oh=00_Af4z4onxzGlJYgs1puwG5APdAYDqWbT0o4lpL6oaehmdqw&oe=6A0BAB9B",
           title: "Tech Trivia Q&A | Pubmat",
           desc: "Tech quiz event design.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/583730965_727510160133288_6277913786664194205_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGx-kDLkTUWzMGcSkWEEbMa-Pisvf0ujzP4-Ky9_S6PMwS8Ye_oql6RmDGmfiH0rgR_lxOUD4UbPAL4BpQHrIio&_nc_ohc=-YhDWfqapGEQ7kNvwFP923P&_nc_oc=AdrxL6tU668sZPtRecJ2wn5TAvfd5kbtI-Xvq7H_zASsrDU41ywI4jga5uQDyvdwCRg&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=BcMmsfO5P2AriaX8Jl0SjA&_nc_ss=7b2a8&oh=00_Af6hzVwhODT1aUJcIqOtDJHukTxGtc6x5B9isnVKSJzi6A&oe=69FF5F0D",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/583730965_727510160133288_6277913786664194205_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGx-kDLkTUWzMGcSkWEEbMa-Pisvf0ujzP4-Ky9_S6PMwS8Ye_oql6RmDGmfiH0rgR_lxOUD4UbPAL4BpQHrIio&_nc_ohc=Zh9Q5lsWIcUQ7kNvwGXy_0E&_nc_oc=AdpIGEANrzEVxn_JhpSIClrM1gWgkMureaCvEyZSont_qLtW9tTN5yPgP0FwpReXzVc&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=rDFkUcaOI_fAsoiN8u8xeg&_nc_ss=7b2a8&oh=00_Af6w5YnZA69b1377qVs7YFPbB8oGbK2Chtd4Ttt1bJQing&oe=6A0BAD0D",
           title: "Word Search Hunt | Pubmat",
           desc: "Word puzzle challenge pubmat.",
           link: "https://www.facebook.com/share/p/1HQaQWF51g/"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/607030134_760019360215701_9067596469705251696_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHuvhW8Nk8bZqRFr9t57IhShLTK8-RH94GEtMrz5Ef3gd9Dl_RZYS5lWyU7VA-x-oWHbUkAtHDh6IQksz17SZvY&_nc_ohc=GPY6s4H3DF8Q7kNvwEdkoJO&_nc_oc=AdrGTtxKOvTpT59NRCHNWw-IjIP3tAnEh2UWTW1LWgVnl-Vdh210F3sXSim9Nl9ypSI&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=D-DviiToC7gkJkwlDD8Udw&_nc_ss=7b2a8&oh=00_Af7YF49ufrKkouir7RqSYDt6hOx64i8ZVn5802wWqI413Q&oe=69FF8980",
+          img: "https://scontent.fmnl17-5.fna.fbcdn.net/v/t39.30808-6/607030134_760019360215701_9067596469705251696_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHuvhW8Nk8bZqRFr9t57IhShLTK8-RH94GEtMrz5Ef3gd9Dl_RZYS5lWyU7VA-x-oWHbUkAtHDh6IQksz17SZvY&_nc_ohc=HipFevLB0F8Q7kNvwHccuzc&_nc_oc=AdobGw8TmKk5ZeJoscNVHvaudy9GDneJEgbUAq50_EkIfDXHkdNhhvahqUVkOaf42po&_nc_zt=23&_nc_ht=scontent.fmnl17-5.fna&_nc_gid=4yFslvWdgY3nRVpUg3eTXA&_nc_ss=7b2a8&oh=00_Af6LITgip6Ck3U5__G4ZlZRgvs0nnW_6f5zKV3cuGCyqxw&oe=6A0B9F40",
           title: "Official Birthday Pubmat for SFITI",
           desc: "Celebration pubmat design.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid02cyCggKPnsiaw1zGFL5ha2ZUdKc6ENU99WNGJNZySyqb8xtTs9KPLWBMHxoRaVaw1l"
         },
         {
-          img: "https://scontent-mnl3-2.xx.fbcdn.net/v/t39.30808-6/571421924_712693071614997_7389359045613033641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFYrGY-UOBgGvaTvY5R-OyW_OIwc3Go_R384jBzcaj9HaeQGsO9M2mZX5Vz703lBBstahzymx0_3o8lfYPboXvc&_nc_ohc=cO8sgupw5TQQ7kNvwE1k1e-&_nc_oc=AdoKZU0ijoag1sPuOZDLIWvKGjKn6Y5--_qBuoEMhDVTbd0RBOAQjfenjnm0QGaBobA&_nc_zt=23&_nc_ht=scontent-mnl3-2.xx&_nc_gid=ki67UhkMb5Y2T1cDOCNQkg&_nc_ss=7b2a8&oh=00_Af5DmJ3cbN9KO8VBz3KKkHNBpHr_mvTtjGNdHAcDy24J5g&oe=69FF7301",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/571421924_712693071614997_7389359045613033641_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFYrGY-UOBgGvaTvY5R-OyW_OIwc3Go_R384jBzcaj9HaeQGsO9M2mZX5Vz703lBBstahzymx0_3o8lfYPboXvc&_nc_ohc=-jGQ78xzsSgQ7kNvwFJ1xn3&_nc_oc=AdqtU6Ov1XHl6gsfG1EySrZL4tWkBvkHi0lfRjeuuq06TUgByxAm63UVYGXmpUVVgDI&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=X5qFznFkw-ihFVIFT_qcew&_nc_ss=7b2a8&oh=00_Af4IC0Eb_JWArxmygipSqeNts5rJuzTEStcM1Q85xPuXvg&oe=6A0B88C1",
           title: "Meet the Officers | Pubmat",
           desc: "Organization officer introduction design.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0SDiu9k9i5nCMEJZvuk6wvvCBrUTwmEvXMFJRcX7WFBDtZn8AGxU5GtFYDD6TRXAdl"
         },
         {
-          img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/571237128_712693488281622_7880925518815647585_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeEZ_fmk3LLVFZ4DjBWCbsHXuHuj9BorP5W4e6P0Gis_lbUnZ_hDXCRF-ZNLw6Wz6MCLZCoMiTE4jX_CEsMpxjZW&_nc_ohc=MMnH4aYjigAQ7kNvwFA7tGf&_nc_oc=AdomheLB-ra4241wZzvETCFcaJN6F6i97DOHssOqJcDGMSKEo-DgtWZEpvHt59U1YgU&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=zKa0tz-lWQ9WqiEHT3EAxg&_nc_ss=7b2a8&oh=00_Af43HR5oF6MJsltJWUDsEXE5zWqdzigCF45462c4YY_AJQ&oe=69FF5D11",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/571237128_712693488281622_7880925518815647585_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEZ_fmk3LLVFZ4DjBWCbsHXuHuj9BorP5W4e6P0Gis_lbUnZ_hDXCRF-ZNLw6Wz6MCLZCoMiTE4jX_CEsMpxjZW&_nc_ohc=6Y_06DeRvUwQ7kNvwFTo7pm&_nc_oc=AdqAdne6ivdSKq_t7ixOoxhqghTLtlR5BKFDKhn86YqVzqeOeQCBM7FWMK1jHhvufxo&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=tfbjT5D9vtk02u_t1em3Gw&_nc_ss=7b2a8&oh=00_Af6J8iSHVGKyXXXqhV98pZvq9WycZNX0jvJm4Brhncuq5g&oe=6A0BAB11",
           title: "Meet the Officers | Pubmat",
           desc: "Organization officer introduction design.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0SDiu9k9i5nCMEJZvuk6wvvCBrUTwmEvXMFJRcX7WFBDtZn8AGxU5GtFYDD6TRXAdl"
         },
         {
-          img: "https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/540742740_663535519864086_54133240066965603_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeE9_LGjDrC4NDtHEHEHD0kTxAVbZptgThDEBVtmm2BOECuLLgFmDNGt7Ome43TXdu2iMRyolMi0Fc03W9c25-6X&_nc_ohc=4RC7a7_JLdAQ7kNvwGldisI&_nc_oc=AdqAS5RN5S1POVa6iJ-O1QJeDFYQA0m_8TV-UZhI8HJkpXo2cylDcYP0DKSlme4BYFU&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=93x3sASJgQYD-v4OfSSVyA&_nc_ss=7b2a8&oh=00_Af7h2a95ZSryMQnNbvAbcMFEgT2zdLVO82Dg34Fzky8jZg&oe=69FF7ABD",
+          img: "https://scontent.fmnl17-4.fna.fbcdn.net/v/t39.30808-6/540742740_663535519864086_54133240066965603_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE9_LGjDrC4NDtHEHEHD0kTxAVbZptgThDEBVtmm2BOECuLLgFmDNGt7Ome43TXdu2iMRyolMi0Fc03W9c25-6X&_nc_ohc=5-GINSphltcQ7kNvwHjVRsV&_nc_oc=AdqZMqNPMFO9NIipLdr1_cvb0ZRfztc6w88ZoYcblLhNZbD5b-OejC80QwHx-zatZTk&_nc_zt=23&_nc_ht=scontent.fmnl17-4.fna&_nc_gid=WsaWu2aYQyKCHBuUwoNV_A&_nc_ss=7b2a8&oh=00_Af6aLvntaT8K3kG5oPnf-rsbSguYjxbzYVzxOJhgh5PrEg&oe=6A0B907D",
           title: "Filing of Candidacy | Pubmat",
           desc: "Election-related pubmat.",
           link: "https://www.facebook.com/share/p/1AbqsoHeEt/"
         },
         {
-          img: "https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/576609133_717028234514814_3411903852059054927_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeG5S8RzlkGqXFSyHjKiX7K1tBioKx_o30u0GKgrH-jfS8odMnBy7aHq39fsMwTfeBrj_biq5HVMWcweZqc_iaVN&_nc_ohc=8DTu98yj32YQ7kNvwFJel9C&_nc_oc=Adqs7D7RQJhNEANpCxUEQlPVkqCNsj_JYsixRYbhompm5vHWTFTxyr7f4H4FGZsNSHY&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=JxgJSeT3v7GqRaQUCYC1nA&_nc_ss=7b2a8&oh=00_Af6A5uRto0zMFskr5XTYfx_O3qg4ZOmPxmu_GnEA9cAHlQ&oe=69FF87C2",
+          img: "https://scontent.fmnl17-6.fna.fbcdn.net/v/t39.30808-6/576609133_717028234514814_3411903852059054927_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG5S8RzlkGqXFSyHjKiX7K1tBioKx_o30u0GKgrH-jfS8odMnBy7aHq39fsMwTfeBrj_biq5HVMWcweZqc_iaVN&_nc_ohc=KPiEoEOM-vYQ7kNvwH3Mghm&_nc_oc=AdrfSfHGNj1x9xdddFH73bKtpaOFELzgtG8iVxrvdDeM2spP3JaVIKmjVrFCu_ivvIE&_nc_zt=23&_nc_ht=scontent.fmnl17-6.fna&_nc_gid=ybBLCH_Llxa4qsrN_7jKuQ&_nc_ss=7b2a8&oh=00_Af4IgAI7Ts_Kva3a-o2kyXThNxchKG7WXs7xW2oxjm8ggQ&oe=6A0B9D82",
           title: "Free Printing | Pubmat",
           desc: "Student service announcement design.",
           link: "https://www.facebook.com/sfiti.psulc.org/posts/pfbid0zacCbZPMCpNTHZUz2vbfbaqRqCNVbjct6p65c7pPRo14vXezTSkKDQGjcMwNBgzol"
@@ -163,13 +163,13 @@ const portfolioData = [
       section: "Philippine Coconut Authority",
       items: [
         {
-          img: "https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/629343353_1214739380842660_6204160360086734363_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGBQBUzjxIw0j0-xFOnEDl_6FQEJomLprfoVAQmiYumt9oL8T366M2XLO6q-tGetqF6tkE-F3n43tD11_4xzoe-&_nc_ohc=uCdUMdpsFAsQ7kNvwF5dojn&_nc_oc=AdpfeoKptkzNSEwJCXePjvshNUQzhfBA5Hc8ZGRVa6Zo5o3n3aQ2V_0QrmlADiqnOww&_nc_zt=23&_nc_ht=scontent-mnl1-2.xx&_nc_gid=dgBaZM5T5VJPwVlEpz3M8A&_nc_ss=7b2a8&oh=00_Af4YguHor84kUrZPRZRlfItM7cT_j__spSAvXkRecOyUjA&oe=69FF771E",
+          img: "https://scontent.fmnl17-4.fna.fbcdn.net/v/t39.30808-6/629343353_1214739380842660_6204160360086734363_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGBQBUzjxIw0j0-xFOnEDl_6FQEJomLprfoVAQmiYumt9oL8T366M2XLO6q-tGetqF6tkE-F3n43tD11_4xzoe-&_nc_ohc=9FdRZXP95aYQ7kNvwH0GvqN&_nc_oc=AdptNjMay_JmwhxwtzOQdhe7-1d-WmMzof-8Tz65dGEW03GslsUVzmZBRsn1EstqXSM&_nc_zt=23&_nc_ht=scontent.fmnl17-4.fna&_nc_gid=HCSVzyMnqYv3hclqNRBKyA&_nc_ss=7b2a8&oh=00_Af5KqS1OIw90AKxGM2JY03wBOD-ODp2_24v8qvJ6dtqxlQ&oe=6A0B8CDE",
           title: "PCA 2nd Runner-Up | Pubmat",
           desc: "Competition result announcement design.",
           link: "https://www.facebook.com/PhilippineCoconutAuthority/posts/pfbid02672hkBn73L4gpQVUaYE6iL2FkkoZVRUANqPUZkqkFyG9Y3cZZvFcKEFVc7BYNL36l"
         },
         {
-          img: "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/655291583_1248417894141475_1205991169615841669_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeEgjIJOZvE464Aw67YU4QnCH0XBzY52mfMfRcHNjnaZ8yd9XFwkUr0A4KECoy_HW58Z6MKiW5FryATau79UvIyI&_nc_ohc=hrSwvXdtqsoQ7kNvwF2DvSS&_nc_oc=Adqh6wpfRsB1Au5ZudR-vgCKz7DaWJK7niZdCosUsP-z6dB4HL_o2zkCZvJ8V6vejII&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=ab5EpglIZXX3pHZMw9Stuw&_nc_ss=7b2a8&oh=00_Af4gv4Dre-8q5pUCXJ827smJPhptEAyM5pJ5Ynjs_gSDlA&oe=69FF5A16",
+          img: "https://scontent.fmnl17-7.fna.fbcdn.net/v/t39.30808-6/655291583_1248417894141475_1205991169615841669_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEgjIJOZvE464Aw67YU4QnCH0XBzY52mfMfRcHNjnaZ8yd9XFwkUr0A4KECoy_HW58Z6MKiW5FryATau79UvIyI&_nc_ohc=ReiHWhijpzkQ7kNvwH3gyKp&_nc_oc=AdoqX7yfWRzA8S71PJkKUUMgGqt615gMmvJBAyNqAcGJtpsJYgfafJHCETGbOHgVruY&_nc_zt=23&_nc_ht=scontent.fmnl17-7.fna&_nc_gid=Ny9eBBbVhoGM2IZibbUbGg&_nc_ss=7b2a8&oh=00_Af5ndgLlCgdZZkOz5K-xpyPrhhUGeBdXeXjAFN0PW3NfhQ&oe=6A0BA816",
           title: "PCA Outstanding Quality Champion Award",
           desc: "Conferred announcement design.",
           link: "https://www.facebook.com/PhilippineCoconutAuthority/posts/pfbid0fQtDKgduFK674Ya1jJ438vXh7wFWMiJiPChfzMzAHxMY9Gd4qp8sVjFxSG7qGECSl"
@@ -180,19 +180,19 @@ const portfolioData = [
   section: "Marketing & Advertisements",
   items: [
     {
-      img: "https://scontent-mnl3-1.xx.fbcdn.net/v/t39.30808-6/640705766_1464847725649158_7710298857494786793_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b895b5&_nc_eui2=AeF1S5cGb1KMEylMpuqVQsHjjAM1pgG9Gz2MAzWmAb0bPToan87ZGx0-wBZolWWGx4ofrEn8FB0k0jXYEKnW05ob&_nc_ohc=oELpxkWBCt4Q7kNvwEfRLQR&_nc_oc=AdoXNQ280YXQMwJJ9WhRNx4ZK8DpsY_05ZHc9OcNej1PrW2jDhuVQ2xb2TiRMxGFxx4&_nc_zt=23&_nc_ht=scontent-mnl3-1.xx&_nc_gid=lVoBXyLzI8KFuhcxNOKjyA&_nc_ss=7b2a8&oh=00_Af5vX2hqD9uy66fYSVRZCJeTIU_uvr_GP9lV7wfZsrc8MA&oe=69FF8164",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/640705766_1464847725649158_7710298857494786793_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeF1S5cGb1KMEylMpuqVQsHjjAM1pgG9Gz2MAzWmAb0bPToan87ZGx0-wBZolWWGx4ofrEn8FB0k0jXYEKnW05ob&_nc_ohc=QtpaJoCCGmIQ7kNvwElFeL2&_nc_oc=AdoQZpSgxKWDVGkdArxOSY2oxy1bmseUBWuS5Q-nBSiVAdw_lgc7UBO1nQxDwrIAmqk&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=l2-bBNdKaFntohb_xRQcIw&_nc_ss=7b2a8&oh=00_Af6z2BZZiOVtzpR7Py085GaKVtTV-bJnnhgz1ii8YLPi8A&oe=6A0B9724",
       title: "Bunene's Special Spiced Vinegar Ad 1",
       desc: "Promotional advertisement design highlighting product branding and visual identity for Bunene's Special Spiced Vinegar.",
       link: "https://www.facebook.com/profile.php?id=100063718337235"
     },
     {
-      img: "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/651091536_1481280977339166_8477199144093987500_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeGe8QkM2pyqcBFcfuSBER5L3md_mNgeNKLeZ3-Y2B40ojtwuY_z0FJDW9bNVixsthvkxeBuOn46STpXOUplNTzN&_nc_ohc=0uJtnd22ueQQ7kNvwE8_62J&_nc_oc=AdofYJaBds27BH3gZlljG6AHwNb54TqgF85A8yNFcJ3h3ZifY9qdycYseaEMlbPZWZQ&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=9Lw5W2J7XrzeQK9gsOq8KA&_nc_ss=7b2a8&oh=00_Af73qsbQpORo_QatQGBHFX7qsVqB-kAXuuIO0bJDoMfH7Q&oe=69FF6AB2",
+          img: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/651091536_1481280977339166_8477199144093987500_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGe8QkM2pyqcBFcfuSBER5L3md_mNgeNKLeZ3-Y2B40ojtwuY_z0FJDW9bNVixsthvkxeBuOn46STpXOUplNTzN&_nc_ohc=ZMs0sErpZCkQ7kNvwE5hEhh&_nc_oc=AdqkDKXrMOLQaUDK-oeMrYpyBMMWgfOFmIEU5NzI0mxdEBwbIiulGF4KjOKt4Gq_Q-0&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=34bHaaY4UCECt8ZveZEInQ&_nc_ss=7b2a8&oh=00_Af4f9WWI7nVTTRzeCq4mCe2SKD7xvOatyKa_K4KTUtWQqA&oe=6A0B8072",
       title: "Bunene's Special Spiced Vinegar Ad 2",
       desc: "Alternative advertising layout focusing on product appeal and marketing variation.",
       link: "https://www.facebook.com/permalink.php?story_fbid=pfbid0r9P5JtdGxLcm7WgF2CLoHkibRYAqhHokDhMgZVtg7z4xRt4LYZ3BcNNtLXHyPrzml&id=100063718337235"
     },
     {
-      img: "https://scontent-mnl3-2.xx.fbcdn.net/v/t39.30808-6/646395415_1472050118262252_4485592987183012885_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeGqJ9WL12w9dYo8saASmZkviss4XrWevkaKyzhetZ6-RnRF4HbkzgM8dexnYrM9Fo0tqDZIW1gdJuVXQExuzrtE&_nc_ohc=_KxFhlz0Xf8Q7kNvwGl9sSd&_nc_oc=AdoNWOId128cg8Z5_rJpuz3KwzAAmY5gdKk4OgV1BP-Ggppt5QY2_tXij01DuB9ZvpA&_nc_zt=23&_nc_ht=scontent-mnl3-2.xx&_nc_gid=BotsOs3P3wQxraTh5httGQ&_nc_ss=7b2a8&oh=00_Af5BvSTPghAltLH2zaBdJQUh_MCOgN6XCs-9doFU7gitgQ&oe=69FF751D",
+          img: "https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/646395415_1472050118262252_4485592987183012885_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGqJ9WL12w9dYo8saASmZkviss4XrWevkaKyzhetZ6-RnRF4HbkzgM8dexnYrM9Fo0tqDZIW1gdJuVXQExuzrtE&_nc_ohc=YPqdeoYZalUQ7kNvwHpXRrA&_nc_oc=Adra5f9QbzRzm-YmzRt5tg7fVjUelcChAf7EuQs4Xbn5Usubg9u7RbyPV4FaAmwWOGY&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=xN9NJhsQabJA4vEP3zMO_A&_nc_ss=7b2a8&oh=00_Af6VIRQ66Z0Mq4Nz5zfoYMKy6DJP_cBccyTyYZXEZe7IxA&oe=6A0B8ADD",
       title: "Bunene's Special Spiced Vinegar Cover Page",
       desc: "",
       link: "https://www.facebook.com/photo?fbid=1472050114928919&set=a.475097707957503",
